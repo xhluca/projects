@@ -5,6 +5,6 @@ t-SNE is a visualization algorithm that projects your high-dimensional data into
 
 ![tsne](images/tsne.gif)
 
-
+---
 
 Back to [homepage](https://xinghanlu.com/).
