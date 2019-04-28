@@ -22,16 +22,6 @@ t-SNE is a visualization algorithm that projects your high-dimensional data into
 ![tsne-image](images/tsne.gif)
 
 
-
-
-## Image Processing App ![stars](https://img.shields.io/github/stars/plotly/dash-image-processing.svg)
-[Link to Repo](https://github.com/plotly/dash-image-processing) | [Demo App](http://dash-image-processing.herokuapp.com/)
-
-This app wraps Pillow, a powerful image processing library in Python, and abstracts all the operations through an easy-to-use GUI. All the computation is done on the back-end through Dash, and image transfer is optimized through session-based Redis caching and S3 storage.
-
-![image-processing](images/image-processing.gif)
-
-
 ## Live Model Training Viewer ![stars](https://img.shields.io/github/stars/plotly/dash-live-model-training.svg)
 [Link to Repo](https://github.com/plotly/dash-live-model-training) | [Demo App](https://dash-live-model-training.plot.ly/)
 
@@ -46,6 +36,15 @@ Tracking accuracy and loss is an essential part of the training process for deep
 This object-detection app provides useful visualizations about what's happening inside a complex video in real time. The data is generated using MobileNet v1 in Tensorflow, trained on the COCO dataset.
 
 ![object-detection](images/object-detection.gif)
+
+
+## Image Processing App ![stars](https://img.shields.io/github/stars/plotly/dash-image-processing.svg)
+[Link to Repo](https://github.com/plotly/dash-image-processing) | [Demo App](http://dash-image-processing.herokuapp.com/)
+
+This app wraps Pillow, a powerful image processing library in Python, and abstracts all the operations through an easy-to-use GUI. All the computation is done on the back-end through Dash, and image transfer is optimized through session-based Redis caching and S3 storage.
+
+![image-processing](images/image-processing.gif)
+
 
 ---
 
