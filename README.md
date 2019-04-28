@@ -1,4 +1,4 @@
-## Dash Cytoscape ![stars](https://img.shields.io/github/stars/plotly/dash-cytoscape.svg)
+## Dash Cytoscape ![stars](https://img.shields.io/github/stars/plotly/dash-cytoscape.svg) [![PyPi Version](https://img.shields.io/pypi/v/dash-cytoscape.svg)](https://pypi.org/project/dash-cytoscape/)
 [Link to Repo](https://github.com/plotly/dash-cytoscape) | [Documentation](https://dash.plot.ly/cytoscape) | [PyPi Installation](https://pypi.org/project/dash-cytoscape/)
 
 Dash Cytoscape is a graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks. It extends and renders Cytoscape.js, and offers deep integration with Dash layouts and callbacks, enabling the creation of powerful networks in conjunction with the rich collection of Dash components, as well as established computational biology and network science libraries such as Biopython and networkX.
