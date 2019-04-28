@@ -23,7 +23,7 @@ t-SNE is a visualization algorithm that projects your high-dimensional data into
 
 
 ## Live Model Training Viewer
-[Link to Repo](https://github.com/plotly/dash-live-model-training) | [Demo App](https://dash-live-model-training.plot.ly/) ![stars](https://img.shields.io/github/stars/plotly/dash-live-model-training.svg)
+[Link to Repo](https://github.com/plotly/dash-live-model-training) | [Demo App](https://dash-live-model-training.plot.ly/)
 
 Tracking accuracy and loss is an essential part of the training process for deep learning models. This real-time visualization app monitors core metrics of your Tensorflow graphs during the training so that you can quickly detect anomalies within your model.
 
